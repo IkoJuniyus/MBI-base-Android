@@ -1,1 +1,1 @@
-this application to help find proportional weight and height "UPDATE"
+this application to help find proportional weight and height "update"
